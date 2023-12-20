@@ -86,6 +86,7 @@ h3 {
 /* Controls */
 .player-controls {
   position: relative;
+  top: -20px;
   left: 120px;
   width: 200px;
 }
